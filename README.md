@@ -1,11 +1,11 @@
 # AI-Related-Papers-Published-in-Nature-or-Science
-## 《Nature》&amp;《Science》发表的AI相关文章
+
 
 2015.01~2021.07, incomplete survey
 
 2021/8/18
 
-
+## 《Nature》&amp;《Science》发表的AI相关文章
 0. Hinton G E, Salakhutdinov R R. Reducing the dimensionality of data with neural networks[J]. Science, 2006, 313(5786): 504-507. doi:10.1126/science.1127647
     * 深度学习里程碑之作，掀起AI热浪
 
