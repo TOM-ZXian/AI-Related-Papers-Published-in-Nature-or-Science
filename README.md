@@ -1,10 +1,11 @@
 # AI-Related-Papers-Published-in-Nature-or-Science
 《Nature》&amp;《Science》发表的AI相关文章
+
 2015.01~2021.07, incomplete survey
 
 2021/8/18
 
-[0]	Hinton G E, Salakhutdinov R R. Reducing the dimensionality of data with neural networks[J]. Science, 2006, 313(5786): 504-507. doi:10.1126/science.1127647
+[0] Hinton G E, Salakhutdinov R R. Reducing the dimensionality of data with neural networks[J]. Science, 2006, 313(5786): 504-507. doi:10.1126/science.1127647
 深度学习里程碑之作，掀起AI热浪
 
 [1]	Mnih V, Kavukcuoglu K, Silver D, et al. Human-level control through deep reinforcement learning[J]. Nature, 2015, 518(7540): 529-533. https://doi.org/10.1038/nature14236 
@@ -243,6 +244,10 @@ RoseTTAFold蛋白质结构预测
 
 [78]	Tunyasuvunakool K, Adler J, Wu Z, et al. Highly accurate protein structure prediction for the human proteome[J]. Nature. 2021:1-9. https://doi.org/10.1038/s41586-021-03828-1
 AlphaFold2 人类蛋白质结构预测-【DeepMind】
+
+
+
+
 
 
 Others：
