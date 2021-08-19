@@ -166,7 +166,7 @@ AlphaZero Science【Cover】 2018.12.07
     * Al预测急性肾损伤，可提前48 小时向医生发出警告-【DeepMind】
 
 52. Brown N, Sandholm T. Superhuman AI for multiplayer poker[J]. Science, 2019, 365(6456): 885-890. doi:10.1126/science.aay2400 
-    * 多人德扑Pluribus 成功战胜了五名专家级人类玩家
+    * 多人德扑Pluribus成功战胜五名专家级人类玩家 Science【Cover】 2019.08.30 
 
 53. Ham Y G , Kim J H , Luo J J . Deep learning for multi-year ENSO forecasts[J]. Nature, 2019, 573(7775):568-572. https://doi.org/10.1038/s41586-019-1559-7 
     * Al提前预测厄尔尼诺自然灾害
