@@ -1,9 +1,9 @@
 # AI-Related-Papers-Published-in-Nature-or-Science
 
 
-2015.01~2021.07, incomplete survey
+2015.01~2021.08, incomplete survey
 
-2021/8/18
+2021/8/26
 
 ## 《Nature》&amp;《Science》发表的AI相关文章
 0. Hinton G E, Salakhutdinov R R. Reducing the dimensionality of data with neural networks[J]. Science, 2006, 313(5786): 504-507. doi:10.1126/science.1127647
@@ -241,10 +241,10 @@ AlphaZero Science【Cover】 2018.12.07
     * AlphaFold2蛋白质结构预测-【DeepMind】
 
 77. Baek M, DiMaio F, Anishchenko I, et al. Accurate prediction of protein structures and interactions using a three-track neural network[J]. Science, 2021, 373(6557): 871-876. doi:10.1126/science.abj8754 
-    * RoseTTAFold蛋白质结构预测- Science【Cover】
+    * RoseTTAFold蛋白质结构预测- Science【Cover】 2021.07.15
 
 78. Tunyasuvunakool K, Adler J, Wu Z, et al. Highly accurate protein structure prediction for the human proteome[J]. Nature, 2021, 596(7873): 590–596. https://doi.org/10.1038/s41586-021-03828-1
-    * AlphaFold2 人类蛋白质结构预测-【DeepMind】 Nature【Cover】
+    * AlphaFold2 人类蛋白质结构预测-【DeepMind】 Nature【Cover】 2021.07.21
 
 
 ## Others：
