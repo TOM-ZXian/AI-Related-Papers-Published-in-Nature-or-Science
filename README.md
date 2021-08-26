@@ -237,14 +237,14 @@ AlphaZero Science【Cover】 2018.12.07
 75. Mirhoseini A , Goldie A , Yazgan M , et al. A graph placement methodology for fast chip design[J]. Nature, 2021, 594(7862): 207-212. https://doi.org/10.1038/s41586-021-03544-w 
     * 深度强化学习设计芯片布局
 
-76. Jumper J, Evans R, Pritzel A, et al. Highly accurate protein structure prediction with AlphaFold[J]. Nature, 2021: 1-11. https://doi.org/10.1038/s41586-021-03819-2 
+76. Jumper J, Evans R, Pritzel A, et al. Highly accurate protein structure prediction with AlphaFold[J]. Nature, 2021, 596(7873): 583-589. https://doi.org/10.1038/s41586-021-03819-2 
     * AlphaFold2蛋白质结构预测-【DeepMind】
 
-77. Baek M, DiMaio F, Anishchenko I, et al. Accurate prediction of protein structures and interactions using a three-track neural network[J]. Science, 2021. doi:10.1126/science.abj8754 
-    * RoseTTAFold蛋白质结构预测
+77. Baek M, DiMaio F, Anishchenko I, et al. Accurate prediction of protein structures and interactions using a three-track neural network[J]. Science, 2021, 373(6557): 871-876. doi:10.1126/science.abj8754 
+    * RoseTTAFold蛋白质结构预测- Science【Cover】
 
-78. Tunyasuvunakool K, Adler J, Wu Z, et al. Highly accurate protein structure prediction for the human proteome[J]. Nature. 2021:1-9. https://doi.org/10.1038/s41586-021-03828-1
-    * AlphaFold2 人类蛋白质结构预测-【DeepMind】
+78. Tunyasuvunakool K, Adler J, Wu Z, et al. Highly accurate protein structure prediction for the human proteome[J]. Nature, 2021, 596(7873): 590–596. https://doi.org/10.1038/s41586-021-03828-1
+    * AlphaFold2 人类蛋白质结构预测-【DeepMind】 Nature【Cover】
 
 
 ## Others：
