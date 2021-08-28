@@ -3,7 +3,7 @@
 
 2015.01~2021.08, incomplete survey
 
-2021/8/26
+2021/8/28
 
 ## 《Nature》&amp;《Science》发表的AI相关文章
 0. Hinton G E, Salakhutdinov R R. Reducing the dimensionality of data with neural networks[J]. Science, 2006, 313(5786): 504-507. doi:10.1126/science.1127647
@@ -77,7 +77,7 @@
 22. Biamonte J, Wittek P, Pancotti N, et al. Quantum machine learning[J]. Nature, 2017, 549(7671): 195-202. doi:10.1038/nature23474
     * 量子机器学习【综述】
 
-23. Silver D, Schrittwieser J, Simonyan K, et al. Mastering the game of go without human knowledge[J]. Nature, 2017, 550(7676): 354.. doi:10.1038/nature24270
+23. Silver D, Schrittwieser J, Simonyan K, et al. Mastering the game of go without human knowledge[J]. Nature, 2017, 550(7676): 354. doi:10.1038/nature24270
     * AlphaGo Zero横空出世，无师自通-【DeepMind】
 
 24. Dasgupta S , Stevens C F , Navlakha S . A neural algorithm for a fundamental computing problem[J]. Science, 2017, 358(6364):793-796. doi:10.1126/science.aam9868
@@ -166,7 +166,7 @@ AlphaZero Science【Cover】 2018.12.07
     * Al预测急性肾损伤，可提前48 小时向医生发出警告-【DeepMind】
 
 52. Brown N, Sandholm T. Superhuman AI for multiplayer poker[J]. Science, 2019, 365(6456): 885-890. doi:10.1126/science.aay2400 
-    * 多人德扑Pluribus成功战胜五名专家级人类玩家 Science【Cover】 2019.08.30 
+    * 多人德扑Pluribus成功战胜五名专家级人类玩家 Science【Cover】 2019.08.30
 
 53. Ham Y G , Kim J H , Luo J J . Deep learning for multi-year ENSO forecasts[J]. Nature, 2019, 573(7775):568-572. https://doi.org/10.1038/s41586-019-1559-7 
     * Al提前预测厄尔尼诺自然灾害
@@ -174,7 +174,7 @@ AlphaZero Science【Cover】 2018.12.07
 54. Vinyals O, Babuschkin I, Czarnecki W M, et al. Grandmaster level in StarCraft II using multi-agent reinforcement learning[J]. Nature, 2019, 575(7782): 350-354. https://doi.org/10.1038/s41586-019-1724-z 
     * 星际争霸AI AlphaStar-【DeepMind】
 
-55. Motta A, Berning M, Boergens K M, et al. Dense connectomic reconstruction in layer 4 of the somatosensory cortex[J]. Science, 2019, 366(6469). doi:10.1126/science.aay3134
+55. Motta A, Berning M, Boergens K M, et al. Dense connectomic reconstruction in layer 4 of the somatosensory cortex[J]. Science, 2019, 366(6469): eaay3134. doi:10.1126/science.aay3134
     * 高分辨率重建89个神经元 Science【Cover】 2019.11.29
 
 56. Gidon A, Zolnik T A, Fidzinski P, et al. Dendritic action potentials and computation in human layer 2/3 cortical neurons[J]. Science, 2020, 367(6473): 83-87. doi:10.1126/science.aax6239
@@ -246,6 +246,10 @@ AlphaZero Science【Cover】 2018.12.07
 78. Tunyasuvunakool K, Adler J, Wu Z, et al. Highly accurate protein structure prediction for the human proteome[J]. Nature, 2021, 596(7873): 590–596. https://doi.org/10.1038/s41586-021-03828-1
     * AlphaFold2 人类蛋白质结构预测-【DeepMind】 Nature【Cover】 2021.07.21
 
+79. Townshend R, Eismann S, Watkins A, et al. Geometric deep learning of RNA structure[J]. Science, 2021, 373(6558): 1047-1051. doi: 10.1126/science.abe5650
+    * AI算法准确预测RNA三维结构-Science【Cover】 2021.08.27
+
+
 
 ## Others：
 0. Rumelhart D E, Hinton G E, Williams R J. Learning representations by back-propagating errors[J]. Nature, 1986, 323(6088): 533-536. https://doi.org/10.1038/323533a0 
@@ -264,12 +268,16 @@ https://www.nature.com/nature/volumes/521/issues/7553
 4. Prediction 【Special Issue】 https://science.sciencemag.org/content/355/6324
     * Science【Cover】 2017.02.03 
 
-5. AI 【Special Issue】https://science.sciencemag.org/content/357/6346
+5. AI Transforms Science 【Special Issue】https://science.sciencemag.org/content/357/6346
     * Science【Cover】 2017.07.07
 
 6. Facing facts（NEWS | FEATURE）https://www.nature.com/nature/volumes/587/issues/7834
     * 人脸识别偏见问题 Nature【Cover】 2020.11.18
 
-7. Celebrating 125 Years Of Academic Excellence: Wuhan University (1893–2018). https://link.zhihu.com/?target=http%3A//www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018 
+7. Computational social science 【Special Issue】 https://www.nature.com/nature/volumes/595/issues/7866
+    * 计算社会学 Nature【Cover】 2021.07.08
+
+8. Celebrating 125 Years Of Academic Excellence: Wuhan University (1893–2018). https://link.zhihu.com/?target=http%3A//www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018 
     * Al画作登上 Science 武大125周年庆Custom Publishing【Cover】 2018.12.28
+
 
