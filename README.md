@@ -280,4 +280,9 @@ https://www.nature.com/nature/volumes/521/issues/7553
 8. Celebrating 125 Years Of Academic Excellence: Wuhan University (1893–2018). https://link.zhihu.com/?target=http%3A//www.sciencemag.org/collections/celebrating-125-years-academic-excellence-wuhan-university-1893-2018 
     * Al画作登上 Science 武大125周年庆Custom Publishing【Cover】 2018.12.28
 
+9. Merolla P A, Arthur J V, Alvarez-Icaza R, et al. A million spiking-neuron integrated circuit with a scalable communication network and interface[J]. Science, 2014, 345(6197): 668-673. doi: 10.1126/science.1254642
+    * 百万脉冲神经元集成电路-“大脑” 芯片  Science【Cover】 2014.08.08
+
+
+
 
